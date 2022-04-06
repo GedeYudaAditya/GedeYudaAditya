@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Gede Yuda Aditya, you can call me Yuda. I am a student of **Ganesha University of Education**, Informatics Engineering Education Study Program. I live in Singaraja, Bali. I really like programming and I want to be able to show myself in this field. Oh yes.. other things too, I like things that are sweet, soft, and fluffy. Like this little guy
+
+![tumblr_3d1fba7e6af309208112303513d04320_ddbe7c47_540.webp]( {https://64.media.tumblr.com/3d1fba7e6af309208112303513d04320/318e7343c3fd82c0-58/s540x810/ddbe7c4730bf269a79f21f7137b46b026d91d5b1.gifv} )
+
 <!--
 **GedeYudaAditya/GedeYudaAditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
