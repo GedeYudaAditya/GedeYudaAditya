@@ -2,7 +2,7 @@
 
 I am Gede Yuda Aditya, you can call me Yuda. I am a student of **Ganesha University of Education**, Informatics Engineering Education Study Program. I live in Singaraja, Bali. I really like programming and I want to be able to show myself in this field. Oh.. other things too, I like things that are sweet, soft, and fluffy. Like this little guy...
 
-![ral](assets/SpeakingSamanta.png)
+![ral](assets/Speaking%20Samanta.png)
 
 ### My Skils...
 I am new, so I am still learning, but I can prove that I know alot about :
